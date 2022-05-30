@@ -2383,7 +2383,7 @@ const template = generateWAMessageFromContent(m.chat, proto.Message.fromObject({
                             hydratedContentText: anu,
                             locationMessage: {
                             jpegThumbnail: fs.readFileSync('./XeonMedia/cheemspic.jpg')},
-                            hydratedFooterText: `Cheems Bot-MD`,
+                            hydratedFooterText: `Google Tata`,
                             hydratedButtons: [{
                                 urlButton: {
                                     displayText: 'YouTube📍',
@@ -2482,7 +2482,7 @@ let template = await generateWAMessageFromContent(m.chat, proto.Message.fromObje
                     title: `Hi ${pushname}`,
                     description: `Please Choose The Menu\n\n`,
                     buttonText: "Menu",
-                    footerText: "_Cheems Bot-MD_",
+                    footerText: "_Google Tata_",
                     listType: "SINGLE_SELECT",
                     sections: [{
 								"title": "Group Features",
@@ -2613,7 +2613,7 @@ case 'grupmenu': {
                             hydratedContentText: anu,
                             locationMessage: {
                             jpegThumbnail: fs.readFileSync('./XeonMedia/cheemspic.jpg')},
-                            hydratedFooterText: `Cheems Bot-MD`,
+                            hydratedFooterText: `Google Tata`,
                             hydratedButtons: [{
                                 urlButton: {
                                     displayText: 'YouTube📍',
@@ -2655,7 +2655,7 @@ case 'downloadmenu': {
                             hydratedContentText: okemenu,
                             locationMessage: {
                             jpegThumbnail: fs.readFileSync('./XeonMedia/cheemspic.jpg')},
-                            hydratedFooterText: `Cheems Bot-MD`,
+                            hydratedFooterText: `Google Tata`,
                             hydratedButtons: [{
                                 urlButton: {
                                     displayText: 'YouTube📍',
@@ -2692,7 +2692,7 @@ case 'downloadmenu': {
                             hydratedContentText: anu,
                             locationMessage: {
                             jpegThumbnail: fs.readFileSync('./XeonMedia/cheemspic.jpg')},
-                            hydratedFooterText: `Cheems Bot-MD`,
+                            hydratedFooterText: `Google Tata`,
                             hydratedButtons: [{
                                 urlButton: {
                                     displayText: 'YouTube📍',
@@ -2723,7 +2723,7 @@ case 'randommenu': {
                             hydratedContentText: anu,
                             locationMessage: {
                             jpegThumbnail: fs.readFileSync('./XeonMedia/cheemspic.jpg')},
-                            hydratedFooterText: `Cheems Bot-MD`,
+                            hydratedFooterText: `Google Tata`,
                             hydratedButtons: [{
                                 urlButton: {
                                     displayText: 'YouTube📍',
@@ -2755,7 +2755,7 @@ case 'funmenu': {
                             hydratedContentText: anu,
                             locationMessage: {
                             jpegThumbnail: fs.readFileSync('./XeonMedia/cheemspic.jpg')},
-                            hydratedFooterText: `Cheems Bot-MD`,
+                            hydratedFooterText: `Google Tata`,
                             hydratedButtons: [{
                                 urlButton: {
                                     displayText: 'YouTube📍',
@@ -2795,7 +2795,7 @@ const template = generateWAMessageFromContent(m.chat, proto.Message.fromObject({
                             hydratedContentText: anu,
                             locationMessage: {
                             jpegThumbnail: fs.readFileSync('./XeonMedia/cheemspic.jpg')},
-                            hydratedFooterText: `Cheems Bot-MD`,
+                            hydratedFooterText: `Google Tata`,
                             hydratedButtons: [{
                                 urlButton: {
                                     displayText: 'YouTube📍',
@@ -2829,7 +2829,7 @@ const template = generateWAMessageFromContent(m.chat, proto.Message.fromObject({
                             hydratedContentText: anu,
                             locationMessage: {
                             jpegThumbnail: fs.readFileSync('./XeonMedia/cheemspic.jpg')},
-                            hydratedFooterText: `Cheems Bot-MD`,
+                            hydratedFooterText: `Google Tata`,
                             hydratedButtons: [{
                                 urlButton: {
                                     displayText: 'YouTube📍',
@@ -2887,7 +2887,7 @@ case 'horoscopemenukcodk': {
                             hydratedContentText: anu,
                             locationMessage: {
                             jpegThumbnail: fs.readFileSync('./XeonMedia/cheemspic.jpg')},
-                            hydratedFooterText: `Cheems Bot-MD`,
+                            hydratedFooterText: `Google Tata`,
                             hydratedButtons: [{
                                 urlButton: {
                                     displayText: 'YouTube📍',
@@ -2925,7 +2925,7 @@ case 'convertmenu': {
                             hydratedContentText: anu,
                             locationMessage: {
                             jpegThumbnail: fs.readFileSync('./XeonMedia/cheemspic.jpg')},
-                            hydratedFooterText: `Cheems Bot-MD`,
+                            hydratedFooterText: `Google Tata`,
                             hydratedButtons: [{
                                 urlButton: {
                                     displayText: 'YouTube📍',
@@ -2965,7 +2965,7 @@ case 'nocategorymenu': {
                             hydratedContentText: anu,
                             locationMessage: {
                             jpegThumbnail: fs.readFileSync('./XeonMedia/cheemspic.jpg')},
-                            hydratedFooterText: `Cheems Bot-MD`,
+                            hydratedFooterText: `Google Tata`,
                             hydratedButtons: [{
                                 urlButton: {
                                     displayText: 'YouTube📍',
@@ -3002,7 +3002,7 @@ case 'databasemenu': {
                             hydratedContentText: anu,
                             locationMessage: {
                             jpegThumbnail: fs.readFileSync('./XeonMedia/cheemspic.jpg')},
-                            hydratedFooterText: `Cheems Bot-MD`,
+                            hydratedFooterText: `Google Tata`,
                             hydratedButtons: [{
                                 urlButton: {
                                     displayText: 'YouTube📍',
@@ -3034,7 +3034,7 @@ case 'anonymouschatmenu': {
                             hydratedContentText: anu,
                             locationMessage: {
                             jpegThumbnail: fs.readFileSync('./XeonMedia/cheemspic.jpg')},
-                            hydratedFooterText: `Cheems Bot-MD`,
+                            hydratedFooterText: `Google Tata`,
                             hydratedButtons: [{
                                 urlButton: {
                                     displayText: 'YouTube📍',
@@ -3066,7 +3066,7 @@ const template = generateWAMessageFromContent(m.chat, proto.Message.fromObject({
                             hydratedContentText: anu,
                             locationMessage: {
                             jpegThumbnail: fs.readFileSync('./XeonMedia/cheemspic.jpg')},
-                            hydratedFooterText: `Cheems Bot-MD`,
+                            hydratedFooterText: `Google Tata`,
                             hydratedButtons: [{
                                 urlButton: {
                                     displayText: 'YouTube📍',
@@ -3103,7 +3103,7 @@ break
                             hydratedContentText: anu,
                             locationMessage: {
                             jpegThumbnail: fs.readFileSync('./XeonMedia/cheemspic.jpg')},
-                            hydratedFooterText: `Cheems Bot-MD`,
+                            hydratedFooterText: `Google Tata`,
                             hydratedButtons: [{
                                 urlButton: {
                                     displayText: 'YouTube📍',
@@ -3244,7 +3244,7 @@ break
                             hydratedContentText: anu,
                             locationMessage: {
                             jpegThumbnail: fs.readFileSync('./XeonMedia/cheemspic.jpg')},
-                            hydratedFooterText: `Cheems Bot-MD`,
+                            hydratedFooterText: `Google Tata`,
                             hydratedButtons: [{
                                 urlButton: {
                                     displayText: 'YouTube📍',
